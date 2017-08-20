@@ -1,0 +1,9 @@
+
+<?php
+$str1="I am no more single.";
+$str2="I got someone to love to.";
+?>
+<?php
+$str3=$str1;
+$str3.=$str2;
+?>
